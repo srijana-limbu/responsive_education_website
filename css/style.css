@@ -133,7 +133,7 @@ nav button{
 header{
     position: relative;
     top: 5rem;
-    overflow: hidden;
+    /* overflow: hidden; */
     height: 70vh;
     margin-bottom: 5rem;
 }
