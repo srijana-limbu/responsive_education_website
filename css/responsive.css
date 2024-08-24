@@ -15,7 +15,7 @@
   h4 {
     font-size: 1.2rem;
   }
-  /* =========================NAVBAR================================ */
+  /* NAVBAR */
   nav button {
     display: inline-block;
     background: transparent;
@@ -73,7 +73,7 @@
     background: var(--color-bg2);
     color: var(--color-white);
   }
-  /* =========================HEADER================================ */
+  /* HEADER  */
   header {
     height: 52vh;
     margin-bottom: 4rem;
@@ -82,7 +82,7 @@
     gap: 0;
     padding-bottom: 3rem;
   }
-  /* =========================CATEGORIES================================ */
+  /* CATEGORIES */
   .categories {
     height: auto;
   }
@@ -93,21 +93,21 @@
   .categories__left {
     margin-right: 0;
   }
-  /* =========================POPULAR COURSES SECTION =================== */
+  /* POPULAR COURSES SECTION  */
   .courses {
     margin-top: 0;
   }
   .courses__container {
     grid-template-columns: 1fr 1fr;
   }
-  /* =========================FAQS SECTION ============================== */
+  /* FAQS SECTION  */
   .faqs__container {
     grid-template-columns: 1fr;
   }
   .faq {
     padding: 1.5rem;
   }
-  /* =========================FOOTER ====================== */
+  /* FOOTER */
   .footer__container {
     grid-template-columns: 1fr 1fr;
   }
@@ -156,3 +156,7 @@
     padding: 1.2rem;
   }
 }
+
+
+
+
